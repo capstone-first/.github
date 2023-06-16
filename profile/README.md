@@ -2,7 +2,7 @@
 
 <!-- import image -->
 
-![Capstone C23-PR512](logo.png)
+![Capstone C23-PR512](./logo.png)
 
 ## Project Description
 
