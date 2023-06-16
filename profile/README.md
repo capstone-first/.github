@@ -13,8 +13,8 @@ Many people nowadays realize the environmental impact and benefits of a plant-ba
 | **Name**                   | **Bangkit ID**  |
 | -------------------------- | --------------- |
 | Jasmine Aulia Pramesty     | **M309DSY0511** |
-| Abidjanna Zulfa Hamdika    | **C309DSY3242** |
+| Abidjanna Zulfa Hamdika    | **M038DSX1317** |
 | Binti Fitrothul Khasanah   | **M040DSY0262** |
-| Septian Dwi Putra P        | **C309DSY3242** |
+| Septian Dwi Putra P        | **C309DSX0900** |
 | Nadhira Aliya Zahra        | **C309DSY3242** |
 | Muhammad Daffa Aldriantama | **A038DKX4473** |
